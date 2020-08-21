@@ -59,9 +59,7 @@ namespace Proyecto_Grupo_5
 
         private void button1_Click(object sender, EventArgs e)
         {
-            this.Hide();
-            IntPrincipal principal = new IntPrincipal();
-            principal.ShowDialog();
+    
         }
     }
 }
